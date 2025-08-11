@@ -1,2 +1,2 @@
 # deep-learning-books
-[Books] Deep Learning from Scratch
+코드 출처 : [Books] Deep Learning from Scratch
