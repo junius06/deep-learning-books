@@ -16,8 +16,9 @@ sudo apt install -y python3-numpy
 sudo apt install -y python3-matplotlib
 ```
 
-### 4. install notebook jupyter
+### 4. install notebook jupyter, ipykernel
 - Create a graph photo
 ```
 sudo apt -y install python3-notebook jupyter
+sudo apt -y install python3-ipykernel
 ```
