@@ -1,6 +1,6 @@
 # 퍼셉트론 (Percenptron)
-> 퍼셉트론 알고리즘은 인공 신경망의 가장 기본적인 형태로, **여러 입력값에 가중치를 곱하고 합산한 뒤 임계값(Threshold)을 기준으로 출력**을 결정하는 모델이다.  
-> 입력(Input) → 가중치(Weight) → 가중합(Summation) → 임계값(Threshold) → 출력(Output)  
+- 퍼셉트론 알고리즘은 인공 신경망의 가장 기본적인 형태로, **여러 입력값에 가중치를 곱하고 합산한 뒤 임계값(Threshold)을 기준으로 출력**을 결정하는 모델이다.  
+- 입력(Input) → 가중치(Weight) → 가중합(Summation) → 임계값(Threshold) → 출력(Output)  
 
 <img src="./perceptron1.png">  
 <br>
