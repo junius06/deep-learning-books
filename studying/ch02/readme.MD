@@ -5,18 +5,7 @@
 <img src="./perceptron1.png">  
 <br>
 
-> 식1  
->> 입력: \( x_1, x_2, \dots, x_n \)  
->> 가중치: \( w_1, w_2, \dots, w_n \)  
->> 출력:  
->>>  \[  
->>>  y = \begin{cases}  
->>>  1 & \text{if } \sum (w_i \cdot x_i) \geq \theta \\  
->>>  0 & \text{otherwise}  
->>>  \end{cases}  
->>>  \]  
-
-> 식2  
+> Formula  
 >> y = if ∑(wi​⋅xi​) + b ≥ 0 : 1  
 >> y = otherwise : 0  
 >>> xi : 입력값 (진리표의 0 또는 1)  
