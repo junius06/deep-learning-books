@@ -5,7 +5,7 @@
 <img src="./perceptron1.png">  
 <br>
 
-**Formula**  
+### Formula  
 > y = if ∑(wi​⋅xi​) + b ≥ 0 : 1  
 > y = otherwise : 0  
 >> xi : 입력값 (진리표의 0 또는 1)  
