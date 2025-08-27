@@ -72,11 +72,13 @@
 - XOR 게이트는 **배타적 논리합**이라는 논리 회로이다.  
 - x1과 x2 중 한 쪽이 1일 때에만 1을 출력한다.  
 
-<img src="./perceptron_graph.png">  
+<img src="./perceptron_graph.png">
+
 - AND, NAND, OR 게이트는 그래프에 (0,0) (1,0) (0,1) (1,1) 점을 찍고 출력값(y)이 다른 점들끼리의 영역을 하나의 선형(linear)으로 나눌 수 있다.  
 - 그러나 XOR 게이트는 단 하나의 직선으로 서로 다른 출력값(y)의 영역을 나눌 수 없다.  
 
-<img src="./perceptron_xor.png">  
+<img src="./perceptron_xor.png">
+
 - 그렇기 때문에 XOR 게이트는 단일 퍼셉트론으로 구현이 불가능하여 다층 퍼셉트론으로 해결해야 한다.  
 - 그래프 상으로는 서로 다른 출력값(y)의 영역을 사진과 같이 선형이 아닌 비선형(non-linear)으로 구분할 수 있다.  
 <br>
